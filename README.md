@@ -1,6 +1,9 @@
 # [Another Benchmarks Game](https://another-benchmarks-game.vercel.app/)
-[![Build status](https://img.shields.io/appveyor/ci/cangqun343/Another-Benchmarks-Game/main.svg)](https://ci.appveyor.com/project/cangqun343/Another-Benchmarks-Game)
+
+[![bench](https://github.com/cangqun343/Another-Benchmarks-Game/actions/workflows/bench.yml/badge.svg)](https://github.com/cangqun343/Another-Benchmarks-Game/actions/workflows/bench.yml)
 [![MIT License](https://img.shields.io/github/license/cangqun343/Another-Benchmarks-Game.svg)](https://github.com/cangqun343/Another-Benchmarks-Game/blob/master/LICENSE)
+
+<!-- [![Build status](https://img.shields.io/appveyor/ci/cangqun343/Another-Benchmarks-Game/main.svg)](https://ci.appveyor.com/project/cangqun343/Another-Benchmarks-Game) -->
 
 Yet another implementation of [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/), Visit [HERE](https://another-benchmarks-game.vercel.app/)
 
